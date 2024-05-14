@@ -1,13 +1,13 @@
 {
   "menu": {
     "id": 0,
-    "logo": "./assets/Images/logo.svg",
+    "logo": "./Images/logo.svg",
     "logo_alt": "logo",
     "nav": [
       {
         "id": 1,
         "title": "فیلیموتور",
-        "emoji": "../../../assets/Icons/fireIcon.svg"
+        "emoji": "./Icons/fireIcon.svg"
       },
       {
         "id": 2,
@@ -140,12 +140,12 @@
       {
         "id": 6,
         "title": "کودک",
-        "emoji": "../../../assets/Icons/kidsIcon.svg"
+        "emoji": "./Icons/kidsIcon.svg"
       },
       {
         "id": 7,
         "title": "فیلیمو مدرسه",
-        "emoji": "../../../assets/Icons/schoolIcon.svg"
+        "emoji": "./Icons/schoolIcon.svg"
       },
       {
         "id": 8,
@@ -219,38 +219,38 @@
   "HeroSlider": [
     {
       "id": 1,
-      "image": "../../../../assets/Images/Home/HeroSlider/image1.jpeg",
-      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image1mobile.jpeg"
+      "image": "./Images/Home/HeroSlider/image1.jpeg",
+      "imageMobile": "./Images/Home/HeroSlider/image1mobile.jpeg"
     },
     {
       "id": 2,
-      "image": "../../../../assets/Images/Home/HeroSlider/image2.jpeg",
-      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image2mobile.jpeg"
+      "image": "./Images/Home/HeroSlider/image2.jpeg",
+      "imageMobile": "./Images/Home/HeroSlider/image2mobile.jpeg"
     },
     {
       "id": 3,
-      "image": "../../../../assets/Images/Home/HeroSlider/image3.jpeg",
-      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image3mobile.jpeg"
+      "image": "./Images/Home/HeroSlider/image3.jpeg",
+      "imageMobile": "./Images/Home/HeroSlider/image3mobile.jpeg"
     },
     {
       "id": 4,
-      "image": "../../../../assets/Images/Home/HeroSlider/image4.jpeg",
-      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image4mobile.jpeg"
+      "image": "./Images/Home/HeroSlider/image4.jpeg",
+      "imageMobile": "./Images/Home/HeroSlider/image4mobile.jpeg"
     },
     {
       "id": 5,
-      "image": "../../../../assets/Images/Home/HeroSlider/image5.jpeg",
-      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image5mobile.jpeg"
+      "image": "./Images/Home/HeroSlider/image5.jpeg",
+      "imageMobile": "./Images/Home/HeroSlider/image5mobile.jpeg"
     },
     {
       "id": 6,
-      "image": "../../../../assets/Images/Home/HeroSlider/image6.jpeg",
-      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image6mobile.jpeg"
+      "image": "./Images/Home/HeroSlider/image6.jpeg",
+      "imageMobile": "./Images/Home/HeroSlider/image6mobile.jpeg"
     },
     {
       "id": 7,
-      "image": "../../../../assets/Images/Home/HeroSlider/image7.jpeg",
-      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image7mobile.jpeg"
+      "image": "./Images/Home/HeroSlider/image7.jpeg",
+      "imageMobile": "./Images/Home/HeroSlider/image7mobile.jpeg"
     }
   ]
 }

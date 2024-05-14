@@ -1,0 +1,256 @@
+{
+  "menu": {
+    "id": 0,
+    "logo": "./assets/Images/logo.svg",
+    "logo_alt": "logo",
+    "nav": [
+      {
+        "id": 1,
+        "title": "فیلیموتور",
+        "emoji": "../../../assets/Icons/fireIcon.svg"
+      },
+      {
+        "id": 2,
+        "title": "فیلم",
+        "emoji": "true",
+        "sub": [
+          {
+            "id": 1,
+            "title": "اکشن"
+          },
+          {
+            "id": 2,
+            "title": "درام"
+          },
+          {
+            "id": 3,
+            "title": "کمدی"
+          },
+          {
+            "id": 4,
+            "title": "هیجان انگیز"
+          },
+          {
+            "id": 5,
+            "title": "وحشت"
+          },
+          {
+            "id": 6,
+            "title": "علمی تخیلی"
+          },
+          {
+            "id": 7,
+            "title": "رازالود"
+          },
+          {
+            "id": 8,
+            "title": "ماجراجویی"
+          },
+          {
+            "id": 9,
+            "title": "انیمیشن"
+          },
+          {
+            "id": 10,
+            "title": "خانوادگی"
+          },
+          {
+            "id": 11,
+            "title": "عاشقانه"
+          },
+          {
+            "id": 12,
+            "title": "جنگی"
+          },
+          {
+            "id": 13,
+            "title": "جنایی"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "سریال",
+        "emoji": "true",
+        "sub": [
+          {
+            "id": 1,
+            "title": "خانوادگی"
+          },
+          {
+            "id": 2,
+            "title": "کمدی"
+          },
+          {
+            "id": 3,
+            "title": "اکشن"
+          },
+          {
+            "id": 4,
+            "title": "عاشقانه"
+          },
+          {
+            "id": 5,
+            "title": "هیجان انگیز"
+          },
+          {
+            "id": 6,
+            "title": "جنگی"
+          },
+          {
+            "id": 7,
+            "title": "جنایی"
+          },
+          {
+            "id": 8,
+            "title": "درام"
+          },
+          {
+            "id": 9,
+            "title": "انیمیشن"
+          },
+          {
+            "id": 10,
+            "title": "ماجراجویی"
+          },
+          {
+            "id": 11,
+            "title": "وحشت"
+          },
+          {
+            "id": 12,
+            "title": "علمی تخیلی"
+          },
+          {
+            "id": 13,
+            "title": "ریلیتی شو"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "ایرانی",
+        "emoji": ""
+      },
+      {
+        "id": 5,
+        "title": "خارجی",
+        "emoji": ""
+      },
+      {
+        "id": 6,
+        "title": "کودک",
+        "emoji": "../../../assets/Icons/kidsIcon.svg"
+      },
+      {
+        "id": 7,
+        "title": "فیلیمو مدرسه",
+        "emoji": "../../../assets/Icons/schoolIcon.svg"
+      },
+      {
+        "id": 8,
+        "title": "مجموعه‌ها",
+        "emoji": "true",
+        "sub": [
+          {
+            "id": 1,
+            "title": "آموزش زبان انگلیسی"
+          },
+          {
+            "id": 2,
+            "title": "موسیقی فیلم"
+          },
+          {
+            "id": 3,
+            "title": "۲۵۰ فیلم برتر IMDB"
+          },
+          {
+            "id": 4,
+            "title": "پرفروش ترین‌های سینمای ایران"
+          },
+          {
+            "id": 5,
+            "title": "پیشکش"
+          },
+          {
+            "id": 6,
+            "title": "باب اسفنجی"
+          },
+          {
+            "id": 7,
+            "title": "دکتر کفشدوزکی"
+          },
+          {
+            "id": 8,
+            "title": "همه لیست‌ها"
+          },
+          {
+            "id": 9,
+            "title": "اسکار ۲۰۲۳"
+          },
+          {
+            "id": 10,
+            "title": "مخصوص ناشنوایان"
+          },
+          {
+            "id": 11,
+            "title": "مخصوص نابینایان"
+          },
+          {
+            "id": 12,
+            "title": "جشنواره فجر"
+          },
+          {
+            "id": 13,
+            "title": "انیمه"
+          },
+          {
+            "id": 14,
+            "title": "هندی"
+          },
+          {
+            "id": 15,
+            "title": "سگ‌های نکهبان"
+          }
+        ]
+      }
+    ]
+  },
+  "HeroSlider": [
+    {
+      "id": 1,
+      "image": "../../../../assets/Images/Home/HeroSlider/image1.jpeg",
+      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image1mobile.jpeg"
+    },
+    {
+      "id": 2,
+      "image": "../../../../assets/Images/Home/HeroSlider/image2.jpeg",
+      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image2mobile.jpeg"
+    },
+    {
+      "id": 3,
+      "image": "../../../../assets/Images/Home/HeroSlider/image3.jpeg",
+      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image3mobile.jpeg"
+    },
+    {
+      "id": 4,
+      "image": "../../../../assets/Images/Home/HeroSlider/image4.jpeg",
+      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image4mobile.jpeg"
+    },
+    {
+      "id": 5,
+      "image": "../../../../assets/Images/Home/HeroSlider/image5.jpeg",
+      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image5mobile.jpeg"
+    },
+    {
+      "id": 6,
+      "image": "../../../../assets/Images/Home/HeroSlider/image6.jpeg",
+      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image6mobile.jpeg"
+    },
+    {
+      "id": 7,
+      "image": "../../../../assets/Images/Home/HeroSlider/image7.jpeg",
+      "imageMobile": "../../../../assets/Images/Home/HeroSlider/image7mobile.jpeg"
+    }
+  ]
+}
